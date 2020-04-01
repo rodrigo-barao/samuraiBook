@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "9788576082675",
+      "isbn": "9788576082675",
+      "name": "Código Limpo - Habilidades Práticas do Agile Software",
+      "coverUrl": "https://devsamurai-materials.s3.amazonaws.com/samurai-books/clean-code.jpg",
+      "rating": 4,
+      "promotionalPrice": 39.9,
+      "price": 99.9,
+      "score": 4.8,
+      "scores": [
+        { "name": "Tradução", "value": 3.5},
+        { "name": "Códigos", "value": 4},
+        { "name": "Comunidade", "value": 5},
+        { "name": "Exemplos", "value": 3.9}
+      ],
+      "tecnologies": ["Java", "TDD", "Arquitetura"],
+      "requirements": ["Java"],
+      "description": "Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis e recursos importantes devido a um código mal escrito. Mas não precisa ser assim."
+    },
+    {
+      "id": "9788580576528",
+      "isbn": "9788580576528",
+      "name": "Caixa de Pássaros: Não abra os olhos",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/41p4DHosvDL._SX353_BO1,204,203,200_.jpg",
+      "rating": 4.4,
+      "promotionalPrice": 14.99,
+      "price": 39.9,
+      "score": 4.4,
+      "scores": [
+        { "name": "Tradução", "value": 4},
+        { "name": "Capa", "value": 2},
+        { "name": "Papel", "value": 4},
+        { "name": "Texto", "value": 3.9}
+      ],
+      "description": "Romance de estreia de Josh Malerman, Caixa de pássaros é um thriller psicológico tenso e aterrorizante, que explora a essência do medo. Uma história que vai deixar o leitor completamente sem fôlego mesmo depois de terminar de ler.Basta uma olhadela para desencadear um impulso violento e incontrolável que acabará em suicídio. Ninguém é imune e ninguém sabe o que provoca essa reação nas pessoas. Cinco anos depois do surto ter começado, restaram poucos sobreviventes, entre eles Malorie e dois filhos pequenos. Ela sonha em fugir para um local onde a família possa ficar em segurança, mas a viagem que tem pela frente é assustadora: uma decisão errada e eles morrerão.“Malerman usa a narrativa alusiva para criar um thriller fascinante que os fãs de Stephen King vão adorar.”Publishers Weekly“Deve ser lido de uma só vez. Ninguém ainda havia escrito uma história de terror como essa.”Hugh Howey, autor de SiloBest seller VEJA"
+    }
+  ]
+}
