@@ -15,7 +15,6 @@ function Results({ isbn }) {
     const loadBook = async () => {
       const response = await getBook(isbn);
       setBook(response);
-      alert(`ISBN in: ${isbn}`);
     };
 
     loadBook();
